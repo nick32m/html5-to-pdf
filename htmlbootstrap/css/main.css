@@ -1,0 +1,40 @@
+@media print {
+  * {
+    color: #000 ;
+    text-shadow: none ;
+    background: transparent ;
+    box-shadow: none ;
+  }
+}
+
+body {
+    font-size: 0.95em;
+}
+span.glyphicon-lg {
+    font-size: 2.2em;
+}
+
+.side-content {
+    background-color: #dff0d8;
+}
+
+.side-content .info {
+    background-color: white;
+    padding-top:4%;
+    
+}
+
+.side-content .info .extra-small {
+    font-size: 85%;
+}
+
+
+.main-content .client-details {
+    padding-top: 5%;
+    height: 200px;
+}
+
+span.large{
+    font-size: 150%;
+    line-height: 200%;
+}
